@@ -1,0 +1,28 @@
+[2021-05-18 19:05:31.069] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-18 19:05:31.069] [remoteagent] [info] Extension host agent started.
+[2021-05-18 19:05:31.094] [remoteagent] [info] [127.0.0.1][5926cc5b][ManagementConnection] New connection established.
+[2021-05-18 19:05:31.160] [remoteagent] [info] [127.0.0.1][a372e700][ExtensionHostConnection] New connection established.
+[2021-05-18 19:05:31.462] [remoteagent] [info] [127.0.0.1][a372e700][ExtensionHostConnection] <18168> Launched Extension Host Process.
+[2021-05-18 19:06:04.181] [remoteagent] [info] [127.0.0.1][5926cc5b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-18 19:06:05.201] [remoteagent] [info] [127.0.0.1][a372e700][ExtensionHostConnection] <18168> Extension Host Process exited with code: 0, signal: null.
+[2021-05-18 19:06:05.201] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-18 19:06:06.257] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-05-18 19:06:06.257] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-05-18 19:06:06.325] [remoteagent] [info] [127.0.0.1][6684dd9b][ManagementConnection] New connection established.
+[2021-05-18 19:06:06.384] [remoteagent] [info] [127.0.0.1][ad270f50][ExtensionHostConnection] New connection established.
+[2021-05-18 19:06:06.394] [remoteagent] [info] [127.0.0.1][ad270f50][ExtensionHostConnection] <18325> Launched Extension Host Process.
+[2021-05-18 19:11:06.257] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-05-18 19:11:52.886] [remoteagent] [info] [127.0.0.1][4ac15b18][ManagementConnection] New connection established.
+[2021-05-18 19:11:53.149] [remoteagent] [info] [127.0.0.1][fbb9ea72][ExtensionHostConnection] New connection established.
+[2021-05-18 19:11:53.152] [remoteagent] [info] [127.0.0.1][fbb9ea72][ExtensionHostConnection] <18544> Launched Extension Host Process.
+[2021-05-18 19:12:01.706] [remoteagent] [info] [127.0.0.1][4ac15b18][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-18 19:12:02.786] [remoteagent] [info] [127.0.0.1][fbb9ea72][ExtensionHostConnection] <18544> Extension Host Process exited with code: 0, signal: null.
